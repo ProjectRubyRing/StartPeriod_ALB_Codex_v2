@@ -1,0 +1,8 @@
+{
+  "method": "XLSXセル値・行高・フォントからのPillow描画。Excel本体ではない。",
+  "font": [
+    "Meiryo UI",
+    "Regular"
+  ],
+  "overflow": []
+}
